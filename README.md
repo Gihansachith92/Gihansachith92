@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Information and communications technology**
 
-- 💬 Ask me about **java , python , c , css, html**
+- 💬 Ask me about **java , python ,java script, c , css, html**
 
 - 📫 How to reach me **gihansachith92@gmail.com**
 
