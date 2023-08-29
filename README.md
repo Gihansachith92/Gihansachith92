@@ -16,7 +16,8 @@
 
 - ⚡ Fun fact **Something I did as a kid that I still do as an adult is watch cartoon**
 
-
+<br>
+<hr>
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
