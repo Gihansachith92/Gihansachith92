@@ -10,6 +10,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gihansachith92&label=Profile%20views&color=0e75b6&style=flat" alt="gihansachith92" /> </p>
 
+
+
 - 🌱 I’m currently learning **Information and communications technology**
 
 - 💬 Ask me about **java , python ,java script, c , css, html**
@@ -26,10 +28,10 @@
  <a href="https://gihansachith92.github.io/Bootstrap-Web-page-About-Me/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
- <a href="https://linkedin.com/in/https://www.linkedin.com/in/gihan-sachith-82276a217/" target="_blank">
+ <a href="https://www.linkedin.com/in/gihansachith/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
- <a href="https://www.hackerrank.com/https://www.hackerrank.com/gihansachith92" target="_blank">
+ <a href="https://www.hackerrank.com/gihansachith92?hr_r=1" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
  </a>
  <a href="https://twitter.com/https://twitter.com/gihan_sachith" target="_blank">
