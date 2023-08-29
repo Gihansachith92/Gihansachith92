@@ -5,8 +5,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=A+passionate+full+stack+developer+from+Sri+Lanka;Computer+Science+Student+.+.+.+.;Competitive+Programmer+.+.+.+.;Expert+on+Web+development+.+.+.+.;Always+learning+new+things+.+.+.+."></a>
 </p>
 <hr>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gihansachith92&label=Profile%20views&color=0e75b6&style=flat" alt="gihansachith92" /> </p>
 
