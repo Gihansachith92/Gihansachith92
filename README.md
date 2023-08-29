@@ -18,7 +18,7 @@
 
 </br></br>
 <hr>
-## Connect with me:
+<h2>Connect with me:</h2>
 
 <p align="center">
  <a href="https://gihansachith92.github.io/Bootstrap-Web-page-About-Me/" target="blank">
