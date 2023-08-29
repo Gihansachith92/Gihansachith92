@@ -71,10 +71,10 @@
 
 
 <hr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gihansachith92&show_icons=true&locale=en&layout=compact" alt="gihansachith92" /></p>
+<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gihansachith92&show_icons=true&locale=en&layout=compact" alt="gihansachith92" /></p>
 <hr>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gihansachith92&show_icons=true&locale=en" alt="gihansachith92" /></p>
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gihansachith92&show_icons=true&locale=en" alt="gihansachith92" /></p>
 <hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gihansachith92&" alt="gihansachith92" /></p>
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gihansachith92&" alt="gihansachith92" /></p>
 <hr>
-<img align="center" src="https://cdnb.artstation.com/p/assets/images/images/024/425/621/original/lourdjim-diazon-utm.gif?1582381618" alt="gihansachith92" />
+
