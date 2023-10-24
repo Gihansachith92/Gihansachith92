@@ -1,4 +1,4 @@
- <p align="center"> <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="gihansachith92" height="300" /> </p>
+ <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="gihansachith92" height="300" /> </p>
 <h1 align="center">Yellow there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Gihan Sachith</h1>
 <hr>
 <p align="center">
