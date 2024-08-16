@@ -1,11 +1,9 @@
  <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="gihansachith92"  /> </p>
 <h1 align="center">Yellow there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Gihan Sachith</h1>
-<hr>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=A+passionate+full+stack+developer+from+Sri+Lanka;Computer+Science+Student+.+.+.+.;Competitive+Programmer+.+.+.+.;Expert+on+Web+development+.+.+.+.;Always+learning+new+things+.+.+.+."></a>
 </p>
-<hr>
-
 ## Use To Code
 
 <p align="center">
